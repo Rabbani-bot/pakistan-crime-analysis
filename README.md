@@ -245,7 +245,7 @@ See [LICENSE](LICENSE) file for full details.
 
 If you use this dataset or analysis in academic work, please cite:
 
-> Rabbani, M. (2024). Pakistan Crimes Analysis (2000–2024): National trends with socioeconomic correlations. GitHub repository. https://github.com/YOUR-USERNAME/pakistan-crimes-analysis
+> Rabbani, M. (2024). Pakistan Crimes Analysis (2000–2024): National trends with socioeconomic correlations. GitHub repository. https://github.com/Rabbani-bot/pakistan-crimes-analysis
 
 ---
 
