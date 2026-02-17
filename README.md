@@ -272,7 +272,7 @@ If you use this dataset or analysis in academic work, please cite:
 Data Analyst & Research Consultant
 
 - **LinkedIn:** www.linkedin.com/in/rabbani-analyst
-- **Kaggle:** (https://kaggle.com/YOUR-USERNAME)](https://www.kaggle.com/rabbani0123)
+- **Kaggle:** (https://www.kaggle.com/rabbani0123)
 - **Email:** mrabbani777tcd@gmail.com
 - **Location:** Mingora, Khyber Pakhtunkhwa, Pakistan
 
