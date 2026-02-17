@@ -1,0 +1,226 @@
+Year,Offence,Crime_Count,Population,Data_Source,Literacy_Rate,GDP_Billion_USD,Unemployment_Rate,Poverty_Rate,Urbanization_Rate,Crime_Rate_Per_100K,GDP_Per_Capita_USD,Crime_Category,Decade
+2000,Murder,26573,142000000,Projected_Statistical,45.0,75.0,7.8,34.5,33.1,18.71,528.17,Violent,2000
+2001,Murder,24935,145000000,Projected_Statistical,46.0,78.5,7.5,34.0,33.4,17.2,541.38,Violent,2000
+2002,Murder,25012,148000000,Projected_Statistical,47.0,82.0,8.3,33.0,33.7,16.9,554.05,Violent,2000
+2003,Murder,24203,151000000,Projected_Statistical,48.5,87.0,8.8,32.0,34.0,16.03,576.16,Violent,2000
+2004,Murder,24687,154000000,Projected_Statistical,50.0,96.0,7.7,30.5,34.3,16.03,623.38,Violent,2000
+2005,Murder,22390,157000000,Projected_Statistical,51.5,110.0,7.7,28.0,34.6,14.26,700.64,Violent,2000
+2006,Murder,21294,160000000,Projected_Statistical,53.0,128.0,6.2,26.0,34.9,13.31,800.0,Violent,2000
+2007,Murder,20009,163000000,Projected_Statistical,54.5,143.0,5.3,24.0,35.2,12.28,877.3,Violent,2000
+2008,Murder,19320,166000000,Projected_Statistical,56.0,170.0,5.2,22.5,35.5,11.64,1024.1,Violent,2000
+2009,Murder,17705,169000000,Projected_Statistical,57.0,169.0,5.5,21.0,35.8,10.48,1000.0,Violent,2000
+2010,Murder,16902,172000000,Projected_Statistical,58.0,177.0,5.6,20.5,36.0,9.83,1029.07,Violent,2010
+2011,Murder,15570,175000000,Projected_Statistical,58.5,213.7,6.0,19.5,36.2,8.9,1221.14,Violent,2010
+2012,Murder,13846,178000000,Verified_PBS,59.0,231.2,6.0,18.0,36.4,7.78,1298.88,Violent,2010
+2013,Murder,13937,181000000,Verified_PBS,59.5,232.3,6.2,18.5,36.6,7.7,1283.43,Violent,2010
+2014,Murder,13276,184000000,Verified_PBS,60.0,243.6,5.9,19.0,36.8,7.22,1323.91,Violent,2010
+2015,Murder,9486,187000000,Verified_PBS,60.0,271.0,5.9,21.5,37.0,5.07,1449.2,Violent,2010
+2016,Murder,8516,190000000,Verified_PBS,61.0,278.7,5.9,24.3,37.2,4.48,1466.84,Violent,2010
+2017,Murder,8235,207774520,Verified_PBS,62.0,305.1,6.0,24.3,37.4,3.96,1468.42,Violent,2010
+2018,Murder,6260,212000000,Projected_Statistical,62.5,315.0,5.8,24.5,37.6,2.95,1485.85,Violent,2010
+2019,Murder,4392,216000000,Projected_Statistical,63.0,282.4,4.5,24.9,37.8,2.03,1307.41,Violent,2010
+2020,Murder,2497,220000000,Projected_Statistical,63.5,263.7,4.1,21.9,38.0,1.14,1198.64,Violent,2020
+2021,Murder,655,224000000,Projected_Statistical,63.0,347.7,4.7,21.9,38.1,0.29,1552.23,Violent,2020
+2022,Murder,0,228000000,Projected_Statistical,62.5,375.4,6.3,22.0,38.3,0.0,1646.49,Violent,2020
+2023,Murder,0,241492197,Projected_Statistical,62.0,341.6,6.2,39.4,38.7,0.0,1414.54,Violent,2020
+2024,Murder,0,245000000,Projected_Statistical,59.5,385.0,5.5,38.0,38.9,0.0,1571.43,Violent,2020
+2000,Attempt to Murder,25980,142000000,Projected_Statistical,45.0,75.0,7.8,34.5,33.1,18.3,528.17,Violent,2000
+2001,Attempt to Murder,27062,145000000,Projected_Statistical,46.0,78.5,7.5,34.0,33.4,18.66,541.38,Violent,2000
+2002,Attempt to Murder,25184,148000000,Projected_Statistical,47.0,82.0,8.3,33.0,33.7,17.02,554.05,Violent,2000
+2003,Attempt to Murder,25237,151000000,Projected_Statistical,48.5,87.0,8.8,32.0,34.0,16.71,576.16,Violent,2000
+2004,Attempt to Murder,24552,154000000,Projected_Statistical,50.0,96.0,7.7,30.5,34.3,15.94,623.38,Violent,2000
+2005,Attempt to Murder,24196,157000000,Projected_Statistical,51.5,110.0,7.7,28.0,34.6,15.41,700.64,Violent,2000
+2006,Attempt to Murder,21968,160000000,Projected_Statistical,53.0,128.0,6.2,26.0,34.9,13.73,800.0,Violent,2000
+2007,Attempt to Murder,22153,163000000,Projected_Statistical,54.5,143.0,5.3,24.0,35.2,13.59,877.3,Violent,2000
+2008,Attempt to Murder,20792,166000000,Projected_Statistical,56.0,170.0,5.2,22.5,35.5,12.53,1024.1,Violent,2000
+2009,Attempt to Murder,19845,169000000,Projected_Statistical,57.0,169.0,5.5,21.0,35.8,11.74,1000.0,Violent,2000
+2010,Attempt to Murder,17656,172000000,Projected_Statistical,58.0,177.0,5.6,20.5,36.0,10.27,1029.07,Violent,2010
+2011,Attempt to Murder,17031,175000000,Projected_Statistical,58.5,213.7,6.0,19.5,36.2,9.73,1221.14,Violent,2010
+2012,Attempt to Murder,15338,178000000,Verified_PBS,59.0,231.2,6.0,18.0,36.4,8.62,1298.88,Violent,2010
+2013,Attempt to Murder,14648,181000000,Verified_PBS,59.5,232.3,6.2,18.5,36.6,8.09,1283.43,Violent,2010
+2014,Attempt to Murder,14499,184000000,Verified_PBS,60.0,243.6,5.9,19.0,36.8,7.88,1323.91,Violent,2010
+2015,Attempt to Murder,11336,187000000,Verified_PBS,60.0,271.0,5.9,21.5,37.0,6.06,1449.2,Violent,2010
+2016,Attempt to Murder,10279,190000000,Verified_PBS,61.0,278.7,5.9,24.3,37.2,5.41,1466.84,Violent,2010
+2017,Attempt to Murder,9499,207774520,Verified_PBS,62.0,305.1,6.0,24.3,37.4,4.57,1468.42,Violent,2010
+2018,Attempt to Murder,7590,212000000,Projected_Statistical,62.5,315.0,5.8,24.5,37.6,3.58,1485.85,Violent,2010
+2019,Attempt to Murder,6077,216000000,Projected_Statistical,63.0,282.4,4.5,24.9,37.8,2.81,1307.41,Violent,2010
+2020,Attempt to Murder,4676,220000000,Projected_Statistical,63.5,263.7,4.1,21.9,38.0,2.13,1198.64,Violent,2020
+2021,Attempt to Murder,2555,224000000,Projected_Statistical,63.0,347.7,4.7,21.9,38.1,1.14,1552.23,Violent,2020
+2022,Attempt to Murder,712,228000000,Projected_Statistical,62.5,375.4,6.3,22.0,38.3,0.31,1646.49,Violent,2020
+2023,Attempt to Murder,0,241492197,Projected_Statistical,62.0,341.6,6.2,39.4,38.7,0.0,1414.54,Violent,2020
+2024,Attempt to Murder,0,245000000,Projected_Statistical,59.5,385.0,5.5,38.0,38.9,0.0,1571.43,Violent,2020
+2000,Kidnapping /Abduction,24279,142000000,Projected_Statistical,45.0,75.0,7.8,34.5,33.1,17.1,528.17,Violent,2000
+2001,Kidnapping /Abduction,24362,145000000,Projected_Statistical,46.0,78.5,7.5,34.0,33.4,16.8,541.38,Violent,2000
+2002,Kidnapping /Abduction,23921,148000000,Projected_Statistical,47.0,82.0,8.3,33.0,33.7,16.16,554.05,Violent,2000
+2003,Kidnapping /Abduction,23538,151000000,Projected_Statistical,48.5,87.0,8.8,32.0,34.0,15.59,576.16,Violent,2000
+2004,Kidnapping /Abduction,23239,154000000,Projected_Statistical,50.0,96.0,7.7,30.5,34.3,15.09,623.38,Violent,2000
+2005,Kidnapping /Abduction,22595,157000000,Projected_Statistical,51.5,110.0,7.7,28.0,34.6,14.39,700.64,Violent,2000
+2006,Kidnapping /Abduction,23644,160000000,Projected_Statistical,53.0,128.0,6.2,26.0,34.9,14.78,800.0,Violent,2000
+2007,Kidnapping /Abduction,21819,163000000,Projected_Statistical,54.5,143.0,5.3,24.0,35.2,13.39,877.3,Violent,2000
+2008,Kidnapping /Abduction,21963,166000000,Projected_Statistical,56.0,170.0,5.2,22.5,35.5,13.23,1024.1,Violent,2000
+2009,Kidnapping /Abduction,21577,169000000,Projected_Statistical,57.0,169.0,5.5,21.0,35.8,12.77,1000.0,Violent,2000
+2010,Kidnapping /Abduction,20917,172000000,Projected_Statistical,58.0,177.0,5.6,20.5,36.0,12.16,1029.07,Violent,2010
+2011,Kidnapping /Abduction,20064,175000000,Projected_Statistical,58.5,213.7,6.0,19.5,36.2,11.47,1221.14,Violent,2010
+2012,Kidnapping /Abduction,20610,178000000,Verified_PBS,59.0,231.2,6.0,18.0,36.4,11.58,1298.88,Violent,2010
+2013,Kidnapping /Abduction,19551,181000000,Verified_PBS,59.5,232.3,6.2,18.5,36.6,10.8,1283.43,Violent,2010
+2014,Kidnapping /Abduction,19111,184000000,Verified_PBS,60.0,243.6,5.9,19.0,36.8,10.39,1323.91,Violent,2010
+2015,Kidnapping /Abduction,18164,187000000,Verified_PBS,60.0,271.0,5.9,21.5,37.0,9.71,1449.2,Violent,2010
+2016,Kidnapping /Abduction,18057,190000000,Verified_PBS,61.0,278.7,5.9,24.3,37.2,9.5,1466.84,Violent,2010
+2017,Kidnapping /Abduction,18363,207774520,Verified_PBS,62.0,305.1,6.0,24.3,37.4,8.84,1468.42,Violent,2010
+2018,Kidnapping /Abduction,17847,212000000,Projected_Statistical,62.5,315.0,5.8,24.5,37.6,8.42,1485.85,Violent,2010
+2019,Kidnapping /Abduction,16639,216000000,Projected_Statistical,63.0,282.4,4.5,24.9,37.8,7.7,1307.41,Violent,2010
+2020,Kidnapping /Abduction,16163,220000000,Projected_Statistical,63.5,263.7,4.1,21.9,38.0,7.35,1198.64,Violent,2020
+2021,Kidnapping /Abduction,15253,224000000,Projected_Statistical,63.0,347.7,4.7,21.9,38.1,6.81,1552.23,Violent,2020
+2022,Kidnapping /Abduction,14478,228000000,Projected_Statistical,62.5,375.4,6.3,22.0,38.3,6.35,1646.49,Violent,2020
+2023,Kidnapping /Abduction,13780,241492197,Projected_Statistical,62.0,341.6,6.2,39.4,38.7,5.71,1414.54,Violent,2020
+2024,Kidnapping /Abduction,12470,245000000,Projected_Statistical,59.5,385.0,5.5,38.0,38.9,5.09,1571.43,Violent,2020
+2000,Dacoity,10517,142000000,Projected_Statistical,45.0,75.0,7.8,34.5,33.1,7.41,528.17,Property,2000
+2001,Dacoity,9738,145000000,Projected_Statistical,46.0,78.5,7.5,34.0,33.4,6.72,541.38,Property,2000
+2002,Dacoity,9273,148000000,Projected_Statistical,47.0,82.0,8.3,33.0,33.7,6.27,554.05,Property,2000
+2003,Dacoity,8799,151000000,Projected_Statistical,48.5,87.0,8.8,32.0,34.0,5.83,576.16,Property,2000
+2004,Dacoity,8494,154000000,Projected_Statistical,50.0,96.0,7.7,30.5,34.3,5.52,623.38,Property,2000
+2005,Dacoity,8077,157000000,Projected_Statistical,51.5,110.0,7.7,28.0,34.6,5.14,700.64,Property,2000
+2006,Dacoity,7807,160000000,Projected_Statistical,53.0,128.0,6.2,26.0,34.9,4.88,800.0,Property,2000
+2007,Dacoity,7091,163000000,Projected_Statistical,54.5,143.0,5.3,24.0,35.2,4.35,877.3,Property,2000
+2008,Dacoity,6557,166000000,Projected_Statistical,56.0,170.0,5.2,22.5,35.5,3.95,1024.1,Property,2000
+2009,Dacoity,6131,169000000,Projected_Statistical,57.0,169.0,5.5,21.0,35.8,3.63,1000.0,Property,2000
+2010,Dacoity,5762,172000000,Projected_Statistical,58.0,177.0,5.6,20.5,36.0,3.35,1029.07,Property,2010
+2011,Dacoity,5182,175000000,Projected_Statistical,58.5,213.7,6.0,19.5,36.2,2.96,1221.14,Property,2010
+2012,Dacoity,4257,178000000,Verified_PBS,59.0,231.2,6.0,18.0,36.4,2.39,1298.88,Property,2010
+2013,Dacoity,4053,181000000,Verified_PBS,59.5,232.3,6.2,18.5,36.6,2.24,1283.43,Property,2010
+2014,Dacoity,3516,184000000,Verified_PBS,60.0,243.6,5.9,19.0,36.8,1.91,1323.91,Property,2010
+2015,Dacoity,2329,187000000,Verified_PBS,60.0,271.0,5.9,21.5,37.0,1.25,1449.2,Property,2010
+2016,Dacoity,1636,190000000,Verified_PBS,61.0,278.7,5.9,24.3,37.2,0.86,1466.84,Property,2010
+2017,Dacoity,1280,207774520,Verified_PBS,62.0,305.1,6.0,24.3,37.4,0.62,1468.42,Property,2010
+2018,Dacoity,392,212000000,Projected_Statistical,62.5,315.0,5.8,24.5,37.6,0.18,1485.85,Property,2010
+2019,Dacoity,0,216000000,Projected_Statistical,63.0,282.4,4.5,24.9,37.8,0.0,1307.41,Property,2010
+2020,Dacoity,0,220000000,Projected_Statistical,63.5,263.7,4.1,21.9,38.0,0.0,1198.64,Property,2020
+2021,Dacoity,0,224000000,Projected_Statistical,63.0,347.7,4.7,21.9,38.1,0.0,1552.23,Property,2020
+2022,Dacoity,0,228000000,Projected_Statistical,62.5,375.4,6.3,22.0,38.3,0.0,1646.49,Property,2020
+2023,Dacoity,0,241492197,Projected_Statistical,62.0,341.6,6.2,39.4,38.7,0.0,1414.54,Property,2020
+2024,Dacoity,0,245000000,Projected_Statistical,59.5,385.0,5.5,38.0,38.9,0.0,1571.43,Property,2020
+2000,Robbery,27449,142000000,Projected_Statistical,45.0,75.0,7.8,34.5,33.1,19.33,528.17,Property,2000
+2001,Robbery,28195,145000000,Projected_Statistical,46.0,78.5,7.5,34.0,33.4,19.44,541.38,Property,2000
+2002,Robbery,28301,148000000,Projected_Statistical,47.0,82.0,8.3,33.0,33.7,19.12,554.05,Property,2000
+2003,Robbery,25486,151000000,Projected_Statistical,48.5,87.0,8.8,32.0,34.0,16.88,576.16,Property,2000
+2004,Robbery,26081,154000000,Projected_Statistical,50.0,96.0,7.7,30.5,34.3,16.94,623.38,Property,2000
+2005,Robbery,23861,157000000,Projected_Statistical,51.5,110.0,7.7,28.0,34.6,15.2,700.64,Property,2000
+2006,Robbery,23543,160000000,Projected_Statistical,53.0,128.0,6.2,26.0,34.9,14.71,800.0,Property,2000
+2007,Robbery,22978,163000000,Projected_Statistical,54.5,143.0,5.3,24.0,35.2,14.1,877.3,Property,2000
+2008,Robbery,23101,166000000,Projected_Statistical,56.0,170.0,5.2,22.5,35.5,13.92,1024.1,Property,2000
+2009,Robbery,20488,169000000,Projected_Statistical,57.0,169.0,5.5,21.0,35.8,12.12,1000.0,Property,2000
+2010,Robbery,20906,172000000,Projected_Statistical,58.0,177.0,5.6,20.5,36.0,12.15,1029.07,Property,2010
+2011,Robbery,19064,175000000,Projected_Statistical,58.5,213.7,6.0,19.5,36.2,10.89,1221.14,Property,2010
+2012,Robbery,17081,178000000,Verified_PBS,59.0,231.2,6.0,18.0,36.4,9.6,1298.88,Property,2010
+2013,Robbery,17363,181000000,Verified_PBS,59.5,232.3,6.2,18.5,36.6,9.59,1283.43,Property,2010
+2014,Robbery,18107,184000000,Verified_PBS,60.0,243.6,5.9,19.0,36.8,9.84,1323.91,Property,2010
+2015,Robbery,15164,187000000,Verified_PBS,60.0,271.0,5.9,21.5,37.0,8.11,1449.2,Property,2010
+2016,Robbery,13088,190000000,Verified_PBS,61.0,278.7,5.9,24.3,37.2,6.89,1466.84,Property,2010
+2017,Robbery,12458,207774520,Verified_PBS,62.0,305.1,6.0,24.3,37.4,6.0,1468.42,Property,2010
+2018,Robbery,11690,212000000,Projected_Statistical,62.5,315.0,5.8,24.5,37.6,5.51,1485.85,Property,2010
+2019,Robbery,10777,216000000,Projected_Statistical,63.0,282.4,4.5,24.9,37.8,4.99,1307.41,Property,2010
+2020,Robbery,8715,220000000,Projected_Statistical,63.5,263.7,4.1,21.9,38.0,3.96,1198.64,Property,2020
+2021,Robbery,7265,224000000,Projected_Statistical,63.0,347.7,4.7,21.9,38.1,3.24,1552.23,Property,2020
+2022,Robbery,5332,228000000,Projected_Statistical,62.5,375.4,6.3,22.0,38.3,2.34,1646.49,Property,2020
+2023,Robbery,3893,241492197,Projected_Statistical,62.0,341.6,6.2,39.4,38.7,1.61,1414.54,Property,2020
+2024,Robbery,1876,245000000,Projected_Statistical,59.5,385.0,5.5,38.0,38.9,0.77,1571.43,Property,2020
+2000,Burglary,25874,142000000,Projected_Statistical,45.0,75.0,7.8,34.5,33.1,18.22,528.17,Property,2000
+2001,Burglary,25855,145000000,Projected_Statistical,46.0,78.5,7.5,34.0,33.4,17.83,541.38,Property,2000
+2002,Burglary,25426,148000000,Projected_Statistical,47.0,82.0,8.3,33.0,33.7,17.18,554.05,Property,2000
+2003,Burglary,23260,151000000,Projected_Statistical,48.5,87.0,8.8,32.0,34.0,15.4,576.16,Property,2000
+2004,Burglary,23014,154000000,Projected_Statistical,50.0,96.0,7.7,30.5,34.3,14.94,623.38,Property,2000
+2005,Burglary,24135,157000000,Projected_Statistical,51.5,110.0,7.7,28.0,34.6,15.37,700.64,Property,2000
+2006,Burglary,21810,160000000,Projected_Statistical,53.0,128.0,6.2,26.0,34.9,13.63,800.0,Property,2000
+2007,Burglary,21061,163000000,Projected_Statistical,54.5,143.0,5.3,24.0,35.2,12.92,877.3,Property,2000
+2008,Burglary,20431,166000000,Projected_Statistical,56.0,170.0,5.2,22.5,35.5,12.31,1024.1,Property,2000
+2009,Burglary,20906,169000000,Projected_Statistical,57.0,169.0,5.5,21.0,35.8,12.37,1000.0,Property,2000
+2010,Burglary,18709,172000000,Projected_Statistical,58.0,177.0,5.6,20.5,36.0,10.88,1029.07,Property,2010
+2011,Burglary,19189,175000000,Projected_Statistical,58.5,213.7,6.0,19.5,36.2,10.97,1221.14,Property,2010
+2012,Burglary,17638,178000000,Verified_PBS,59.0,231.2,6.0,18.0,36.4,9.91,1298.88,Property,2010
+2013,Burglary,17053,181000000,Verified_PBS,59.5,232.3,6.2,18.5,36.6,9.42,1283.43,Property,2010
+2014,Burglary,17150,184000000,Verified_PBS,60.0,243.6,5.9,19.0,36.8,9.32,1323.91,Property,2010
+2015,Burglary,15736,187000000,Verified_PBS,60.0,271.0,5.9,21.5,37.0,8.41,1449.2,Property,2010
+2016,Burglary,14572,190000000,Verified_PBS,61.0,278.7,5.9,24.3,37.2,7.67,1466.84,Property,2010
+2017,Burglary,13833,207774520,Verified_PBS,62.0,305.1,6.0,24.3,37.4,6.66,1468.42,Property,2010
+2018,Burglary,12908,212000000,Projected_Statistical,62.5,315.0,5.8,24.5,37.6,6.09,1485.85,Property,2010
+2019,Burglary,12639,216000000,Projected_Statistical,63.0,282.4,4.5,24.9,37.8,5.85,1307.41,Property,2010
+2020,Burglary,10981,220000000,Projected_Statistical,63.5,263.7,4.1,21.9,38.0,4.99,1198.64,Property,2020
+2021,Burglary,9808,224000000,Projected_Statistical,63.0,347.7,4.7,21.9,38.1,4.38,1552.23,Property,2020
+2022,Burglary,8553,228000000,Projected_Statistical,62.5,375.4,6.3,22.0,38.3,3.75,1646.49,Property,2020
+2023,Burglary,7320,241492197,Projected_Statistical,62.0,341.6,6.2,39.4,38.7,3.03,1414.54,Property,2020
+2024,Burglary,5832,245000000,Projected_Statistical,59.5,385.0,5.5,38.0,38.9,2.38,1571.43,Property,2020
+2000,Cattle Theft,15711,142000000,Projected_Statistical,45.0,75.0,7.8,34.5,33.1,11.06,528.17,Property,2000
+2001,Cattle Theft,15167,145000000,Projected_Statistical,46.0,78.5,7.5,34.0,33.4,10.46,541.38,Property,2000
+2002,Cattle Theft,14279,148000000,Projected_Statistical,47.0,82.0,8.3,33.0,33.7,9.65,554.05,Property,2000
+2003,Cattle Theft,14201,151000000,Projected_Statistical,48.5,87.0,8.8,32.0,34.0,9.4,576.16,Property,2000
+2004,Cattle Theft,12856,154000000,Projected_Statistical,50.0,96.0,7.7,30.5,34.3,8.35,623.38,Property,2000
+2005,Cattle Theft,12683,157000000,Projected_Statistical,51.5,110.0,7.7,28.0,34.6,8.08,700.64,Property,2000
+2006,Cattle Theft,12444,160000000,Projected_Statistical,53.0,128.0,6.2,26.0,34.9,7.78,800.0,Property,2000
+2007,Cattle Theft,12020,163000000,Projected_Statistical,54.5,143.0,5.3,24.0,35.2,7.37,877.3,Property,2000
+2008,Cattle Theft,11659,166000000,Projected_Statistical,56.0,170.0,5.2,22.5,35.5,7.02,1024.1,Property,2000
+2009,Cattle Theft,10241,169000000,Projected_Statistical,57.0,169.0,5.5,21.0,35.8,6.06,1000.0,Property,2000
+2010,Cattle Theft,10585,172000000,Projected_Statistical,58.0,177.0,5.6,20.5,36.0,6.15,1029.07,Property,2010
+2011,Cattle Theft,9562,175000000,Projected_Statistical,58.5,213.7,6.0,19.5,36.2,5.46,1221.14,Property,2010
+2012,Cattle Theft,9046,178000000,Verified_PBS,59.0,231.2,6.0,18.0,36.4,5.08,1298.88,Property,2010
+2013,Cattle Theft,7743,181000000,Verified_PBS,59.5,232.3,6.2,18.5,36.6,4.28,1283.43,Property,2010
+2014,Cattle Theft,7459,184000000,Verified_PBS,60.0,243.6,5.9,19.0,36.8,4.05,1323.91,Property,2010
+2015,Cattle Theft,6502,187000000,Verified_PBS,60.0,271.0,5.9,21.5,37.0,3.48,1449.2,Property,2010
+2016,Cattle Theft,6068,190000000,Verified_PBS,61.0,278.7,5.9,24.3,37.2,3.19,1466.84,Property,2010
+2017,Cattle Theft,5342,207774520,Verified_PBS,62.0,305.1,6.0,24.3,37.4,2.57,1468.42,Property,2010
+2018,Cattle Theft,4528,212000000,Projected_Statistical,62.5,315.0,5.8,24.5,37.6,2.14,1485.85,Property,2010
+2019,Cattle Theft,3723,216000000,Projected_Statistical,63.0,282.4,4.5,24.9,37.8,1.72,1307.41,Property,2010
+2020,Cattle Theft,2541,220000000,Projected_Statistical,63.5,263.7,4.1,21.9,38.0,1.16,1198.64,Property,2020
+2021,Cattle Theft,1610,224000000,Projected_Statistical,63.0,347.7,4.7,21.9,38.1,0.72,1552.23,Property,2020
+2022,Cattle Theft,589,228000000,Projected_Statistical,62.5,375.4,6.3,22.0,38.3,0.26,1646.49,Property,2020
+2023,Cattle Theft,0,241492197,Projected_Statistical,62.0,341.6,6.2,39.4,38.7,0.0,1414.54,Property,2020
+2024,Cattle Theft,0,245000000,Projected_Statistical,59.5,385.0,5.5,38.0,38.9,0.0,1571.43,Property,2020
+2000,Other Theft,47680,142000000,Projected_Statistical,45.0,75.0,7.8,34.5,33.1,33.58,528.17,Property,2000
+2001,Other Theft,46095,145000000,Projected_Statistical,46.0,78.5,7.5,34.0,33.4,31.79,541.38,Property,2000
+2002,Other Theft,44830,148000000,Projected_Statistical,47.0,82.0,8.3,33.0,33.7,30.29,554.05,Property,2000
+2003,Other Theft,43666,151000000,Projected_Statistical,48.5,87.0,8.8,32.0,34.0,28.92,576.16,Property,2000
+2004,Other Theft,43640,154000000,Projected_Statistical,50.0,96.0,7.7,30.5,34.3,28.34,623.38,Property,2000
+2005,Other Theft,44910,157000000,Projected_Statistical,51.5,110.0,7.7,28.0,34.6,28.61,700.64,Property,2000
+2006,Other Theft,44006,160000000,Projected_Statistical,53.0,128.0,6.2,26.0,34.9,27.5,800.0,Property,2000
+2007,Other Theft,41875,163000000,Projected_Statistical,54.5,143.0,5.3,24.0,35.2,25.69,877.3,Property,2000
+2008,Other Theft,41747,166000000,Projected_Statistical,56.0,170.0,5.2,22.5,35.5,25.15,1024.1,Property,2000
+2009,Other Theft,42070,169000000,Projected_Statistical,57.0,169.0,5.5,21.0,35.8,24.89,1000.0,Property,2000
+2010,Other Theft,39529,172000000,Projected_Statistical,58.0,177.0,5.6,20.5,36.0,22.98,1029.07,Property,2010
+2011,Other Theft,37742,175000000,Projected_Statistical,58.5,213.7,6.0,19.5,36.2,21.57,1221.14,Property,2010
+2012,Other Theft,40102,178000000,Verified_PBS,59.0,231.2,6.0,18.0,36.4,22.53,1298.88,Property,2010
+2013,Other Theft,37751,181000000,Verified_PBS,59.5,232.3,6.2,18.5,36.6,20.86,1283.43,Property,2010
+2014,Other Theft,35288,184000000,Verified_PBS,60.0,243.6,5.9,19.0,36.8,19.18,1323.91,Property,2010
+2015,Other Theft,32400,187000000,Verified_PBS,60.0,271.0,5.9,21.5,37.0,17.33,1449.2,Property,2010
+2016,Other Theft,34320,190000000,Verified_PBS,61.0,278.7,5.9,24.3,37.2,18.06,1466.84,Property,2010
+2017,Other Theft,37304,207774520,Verified_PBS,62.0,305.1,6.0,24.3,37.4,17.95,1468.42,Property,2010
+2018,Other Theft,33559,212000000,Projected_Statistical,62.5,315.0,5.8,24.5,37.6,15.83,1485.85,Property,2010
+2019,Other Theft,31702,216000000,Projected_Statistical,63.0,282.4,4.5,24.9,37.8,14.68,1307.41,Property,2010
+2020,Other Theft,31091,220000000,Projected_Statistical,63.5,263.7,4.1,21.9,38.0,14.13,1198.64,Property,2020
+2021,Other Theft,28079,224000000,Projected_Statistical,63.0,347.7,4.7,21.9,38.1,12.54,1552.23,Property,2020
+2022,Other Theft,27854,228000000,Projected_Statistical,62.5,375.4,6.3,22.0,38.3,12.22,1646.49,Property,2020
+2023,Other Theft,26421,241492197,Projected_Statistical,62.0,341.6,6.2,39.4,38.7,10.94,1414.54,Property,2020
+2024,Other Theft,24304,245000000,Projected_Statistical,59.5,385.0,5.5,38.0,38.9,9.92,1571.43,Property,2020
+2000,Others,366466,142000000,Projected_Statistical,45.0,75.0,7.8,34.5,33.1,258.07,528.17,Other,2000
+2001,Others,372276,145000000,Projected_Statistical,46.0,78.5,7.5,34.0,33.4,256.74,541.38,Other,2000
+2002,Others,407865,148000000,Projected_Statistical,47.0,82.0,8.3,33.0,33.7,275.58,554.05,Other,2000
+2003,Others,406987,151000000,Projected_Statistical,48.5,87.0,8.8,32.0,34.0,269.53,576.16,Other,2000
+2004,Others,432941,154000000,Projected_Statistical,50.0,96.0,7.7,30.5,34.3,281.13,623.38,Other,2000
+2005,Others,409663,157000000,Projected_Statistical,51.5,110.0,7.7,28.0,34.6,260.93,700.64,Other,2000
+2006,Others,455216,160000000,Projected_Statistical,53.0,128.0,6.2,26.0,34.9,284.51,800.0,Other,2000
+2007,Others,428030,163000000,Projected_Statistical,54.5,143.0,5.3,24.0,35.2,262.6,877.3,Other,2000
+2008,Others,459484,166000000,Projected_Statistical,56.0,170.0,5.2,22.5,35.5,276.8,1024.1,Other,2000
+2009,Others,452290,169000000,Projected_Statistical,57.0,169.0,5.5,21.0,35.8,267.63,1000.0,Other,2000
+2010,Others,483856,172000000,Projected_Statistical,58.0,177.0,5.6,20.5,36.0,281.31,1029.07,Other,2010
+2011,Others,491127,175000000,Projected_Statistical,58.5,213.7,6.0,19.5,36.2,280.64,1221.14,Other,2010
+2012,Others,507729,178000000,Verified_PBS,59.0,231.2,6.0,18.0,36.4,285.24,1298.88,Other,2010
+2013,Others,502305,181000000,Verified_PBS,59.5,232.3,6.2,18.5,36.6,277.52,1283.43,Other,2010
+2014,Others,498721,184000000,Verified_PBS,60.0,243.6,5.9,19.0,36.8,271.04,1323.91,Other,2010
+2015,Others,522182,187000000,Verified_PBS,60.0,271.0,5.9,21.5,37.0,279.24,1449.2,Other,2010
+2016,Others,571018,190000000,Verified_PBS,61.0,278.7,5.9,24.3,37.2,300.54,1466.84,Other,2010
+2017,Others,577611,207774520,Verified_PBS,62.0,305.1,6.0,24.3,37.4,278.0,1468.42,Other,2010
+2018,Others,619589,212000000,Projected_Statistical,62.5,315.0,5.8,24.5,37.6,292.26,1485.85,Other,2010
+2019,Others,604304,216000000,Projected_Statistical,63.0,282.4,4.5,24.9,37.8,279.77,1307.41,Other,2010
+2020,Others,627310,220000000,Projected_Statistical,63.5,263.7,4.1,21.9,38.0,285.14,1198.64,Other,2020
+2021,Others,633298,224000000,Projected_Statistical,63.0,347.7,4.7,21.9,38.1,282.72,1552.23,Other,2020
+2022,Others,673813,228000000,Projected_Statistical,62.5,375.4,6.3,22.0,38.3,295.53,1646.49,Other,2020
+2023,Others,724168,241492197,Projected_Statistical,62.0,341.6,6.2,39.4,38.7,299.87,1414.54,Other,2020
+2024,Others,730534,245000000,Projected_Statistical,59.5,385.0,5.5,38.0,38.9,298.18,1571.43,Other,2020
