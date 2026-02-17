@@ -30,7 +30,7 @@ Table of Contents
 [Contact](#contact)
 
 
-Dataset
+**Dataset**
 
 The dataset integrates crime statistics with socioeconomic indicators spanning 25 years.
 
@@ -100,7 +100,7 @@ Crime rate trend: **Declining** despite population growth
 
 Comprehensive Dashboard
 
-![Pakistan Crimes Dashboard](visualizations/pakistan_crimes_dashboard_linkedin.png)
+![Pakistan Crimes Dashboard](visualization/pakistan_crimes_dashboard_linkedin.png)
 
 This dashboard presents:
 1. **Key Statistics:** Total crimes, average crime rate, population growth, literacy gains
