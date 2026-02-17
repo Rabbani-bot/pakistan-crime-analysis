@@ -13,23 +13,6 @@ This project examines 25 years of crime data in Pakistan (2000–2024) and explo
 
 The goal is to provide evidence-based insights that can inform policy decisions, resource allocation, and crime prevention strategies.
 
-Table of Contents
-
-[Dataset](#dataset)
-[Key Findings](#key-findings)
-[Visualizations](#visualizations)
-[Methodology](#methodology)
-[Project Structure](#project-structure)
-[Installation & Usage](#installation--usage)
-[Technologies Used](#technologies-used)
-[Data Sources](#data-sources)
-[Limitations](#limitations)
-[Future Work](#future-work)
-[Contributing](#contributing)
-[License](#license)
-[Contact](#contact)
-
-
 **Dataset**
 
 The dataset integrates crime statistics with socioeconomic indicators spanning 25 years.
